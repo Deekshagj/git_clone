@@ -1,4 +1,4 @@
-# Git Client Project
+# Git_Clone
 
 This project is an educational attempt to better understand how Git works by creating a simplified Git client from scratch using Python. By re-implementing some core Git functionalities like object storage, hashing, and versioning, the goal is to gain deeper insights into the internal workings of Git.
 

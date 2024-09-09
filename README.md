@@ -1,4 +1,4 @@
-# git_clone
+# Git Client Project
 
 This project is an educational attempt to better understand how Git works by creating a simplified Git client from scratch using Python. By re-implementing some core Git functionalities like object storage, hashing, and versioning, the goal is to gain deeper insights into the internal workings of Git.
 
@@ -35,8 +35,7 @@ This is a personal project aimed at enhancing my knowledge of Git and its intern
      source venv/bin/activate
      ```
 
-
-4. Run the `git.py` file:
+5. Run the `git.py` file:
    ```bash
    python git.py
    ```
@@ -47,10 +46,9 @@ The primary objective of this project is to **understand Git better** by buildin
 
 ## Source of Inspiration
 
-The project is inspired by [Git's internals](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain) as described in the official Git documentation and the book *Pro Git* by Scott Chacon.
+The project is inspired by [Ben Hoyt's article on building a simple Git client](https://benhoyt.com/writings/pygit/). I have followed his guide to reimplement core Git features and added my own enhancements to further deepen my understanding of Git's internals.
 
-For more in-depth information, I referred to the following resources:
-
+Additional sources referred for understanding:
 1. [Pro Git Book](https://git-scm.com/book/en/v2)
 2. [Git Documentation](https://git-scm.com/doc)
 
@@ -60,15 +58,6 @@ This project is purely for educational purposes and is not intended to replace G
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+This project is licensed under the MIT License 
 
-### Explanation:
 
-- The **Project Overview** section explains what the project does and its educational purpose.
-- The **How to Run** section provides instructions on how to clone and run the project.
-- The **Learning Objective** describes why you're building the project.
-- The **Source of Inspiration** acknowledges the original sources, especially the *Pro Git* book and Git documentation.
-- The **Disclaimer** ensures it's clear that this project is not meant for production use.
-
-Feel free to modify this according to your needs!
